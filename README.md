@@ -1,5 +1,4 @@
 # Bitcoin daemon ready for tests on [regtest mode](https://developer.bitcoin.org/examples/testing.html#regtest-mode)
-> Two nodes running on regtest mode and ready for json-rpc api tests
 
 <hr>
 
