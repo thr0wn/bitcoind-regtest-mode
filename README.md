@@ -1,7 +1,5 @@
 # Bitcoin daemon ready for tests on [regtest mode](https://developer.bitcoin.org/examples/testing.html#regtest-mode)
 
-<hr>
-
 ## ⚙ Build
 ```bash
 docker build --no-cache -t bitcoind-regtest .
