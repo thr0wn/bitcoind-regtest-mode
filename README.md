@@ -2,14 +2,14 @@
 
 ## ⚙ Build
 ```bash
-docker build --no-cache -t bitcoind-regtest .
+docker build --no-cache -t bitcoind-regtest-mode .
 ```
 
 <hr>
 
 ## 🚀 Run
 ```bash
-docker run -d -it -p 1111:1111 -p 1112:1112 bitcoind-regtest
+docker run -d -it -p 1111:1111 -p 1112:1112 bitcoind-regtest-mode
 ```
 
 <hr>
