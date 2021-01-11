@@ -1,7 +1,6 @@
 #!/bin/bash
 mkdir regtest
 cd regtest
-mkdir node1 node2
 echo -e "\nStarting both bitcoin nodes...\n"
 bitcoind -datadir=/regtest/node1
 bitcoind -datadir=/regtest/node2
