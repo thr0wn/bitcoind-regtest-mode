@@ -2,7 +2,7 @@
 
 ## ⚙ Build
 ```bash
-docker build --no-cache -t bitcoind-regtest-mode .
+docker build -t bitcoind-regtest-mode .
 ```
 
 <hr>
